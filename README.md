@@ -9,7 +9,7 @@ Visualized order status and sales contributions from top 10 states.
   ![Sales](images/Sales.png)
  ![Order Status](images/OrderStatus.png)
  ![Order](images/Order.png)
-  ![Order Vs Sales](images/Order_Vs_Sales.png)
+  ![Order Vs Sales](images/OrderVsSales.png)
    ![Channels Order](images/ChannelsOrder.png)
     ![Annual Report](images/AnnualReport.png)
      ![Annual Report After Filteration](images/AnnualReportAfterFilter.png)
